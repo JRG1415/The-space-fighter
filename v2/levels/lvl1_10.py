@@ -1,0 +1,2 @@
+def sucess():
+    print("sucess")
